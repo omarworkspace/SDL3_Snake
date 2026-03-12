@@ -45,11 +45,23 @@ Requirements:
 
 
 
-Compile: 
+Compile:
 
 gcc main.c -lSDL3 -o snake
 
-Run:	 
+Run:
 
 ./snake
+
+
+
+* \## Screenshot
+
+
+
+!\[Snake Game](Screenshot(1).png)
+
+
+
+!\[Snake Game](Screenshot(3).png)
 
