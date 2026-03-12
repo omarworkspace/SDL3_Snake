@@ -1,4 +1,4 @@
-SDL3 Snake Game 
+SDL3 Snake Game
 
 
 
@@ -6,7 +6,7 @@ A simple arcade style Snake game written in C using SDL3.
 
 
 
-\## Features
+* Features
 
 \- Grid-based snake movement
 
@@ -18,13 +18,17 @@ A simple arcade style Snake game written in C using SDL3.
 
 
 
-\## Controls
+* Controls
 
-Arrow Keys / WASD → Move snake
+Arrow Keys / WASD : Move snake
+
+Space : Pause
+
+Esc : Quit
 
 
 
-\## Build Instructions
+* Build Instructions:
 
 
 
@@ -36,17 +40,11 @@ Requirements:
 
 
 
-Compile:
-
-
+Compile: 
 
 gcc main.c -lSDL3 -o snake
 
-
-
-Run:
-
-
+Run:	 
 
 ./snake
 
