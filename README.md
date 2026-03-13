@@ -1,15 +1,16 @@
-SDL3 Snake Game
-
-
+/SDL3 Snake Game/
 
 A simple arcade style Snake game written in C using SDL3.
 
 
-Screenshot
+Screenshots
 
 ![Snake Game](Screenshot1.png)
 
 ![Snake Game](Screenshot3.png)
+
+Windows may show a SmartScreen warning because the
+program is not code-signed. Click "More info" → "Run anyway".
 
 * Features
 
@@ -54,14 +55,4 @@ Run:
 ./snake
 
 
-
-* \## Screenshot
-
-
-
-!\[Snake Game](Screenshot(1).png)
-
-
-
-!\[Snake Game](Screenshot(3).png)
 
